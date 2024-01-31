@@ -1,0 +1,3 @@
+Settings = {
+    'TOKEN_BOT': '1455627422:AAFpx1llKF9LsFUOhVy1ZNjWyDdu1Gx3C6g'
+}
